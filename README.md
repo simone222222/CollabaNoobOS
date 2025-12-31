@@ -52,4 +52,6 @@ See **dependencies** for more info on required libraries and software installed
 
 ## Credits
 
+бро что это
+
 - [Vineeth B V](https://github.com/vinsdragonis)
