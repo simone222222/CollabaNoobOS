@@ -53,6 +53,7 @@ See **dependencies** for more info on required libraries and software installed
 ## Credits
 
 бро что это
+
 lol it's a os where you can change anything!
 
 - [Vineeth B V](https://github.com/vinsdragonis)
